@@ -4,9 +4,11 @@ Movie-Pack
 A Minecraft resource pack to assist in Minecraft Machinima's.
 
 Some Changes in the resource pack
-- Beacons, command blocks, gold blocks and other blocks animate!
+- Beacons, command blocks, gold blocks, gold ore and other blocks animate!
 - Clearer water.
 - Bits added from TiggyLi's and Plastix's resource pack.
+- Explosions are full colour!
+- Sun and Moon are rounder!
 - Even more!
 
 Other stuff that you may add, are in the Extra Resources folder, these details

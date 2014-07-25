@@ -25,7 +25,7 @@
 §6 Hey everybody, its PLAYERNAME!
 §6 This movie will be eZ
 §6 u w0t m8?
-§6 Underscores_are_not_cool.__They_are_annoying_to_type_with.
+§6 Underscores_are_not_cool_They_are_annoying_to_type_with.
 §6 I reddit on reddit!
 §6 1rd Place!
 §6 WOMBO COMBO!
@@ -34,4 +34,5 @@
 §6 Shut up and take my money!
 §6 “Star Wars The Phantom Menace was the most disappointing thing since my son”
 §6 GitHub or JitHub? Gif or Jif?
-§6 The ModAPI is the new Half-Life 3
+§6 The ModAPI is the new Half-Life 3!
+§6 The Illuminati KnooOOoos!
