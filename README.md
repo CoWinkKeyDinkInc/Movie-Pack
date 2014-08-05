@@ -1,7 +1,7 @@
 Movie-Pack
 ==========
 
-A Minecraft resource pack to assist in Minecraft Machinima's.
+A 16x Minecraft resource pack to assist in Minecraft Machinima's.
 
 Some Changes in the resource pack by default
 --------------------------------------------
