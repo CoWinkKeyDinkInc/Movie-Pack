@@ -12,8 +12,8 @@ Color Map
 ---------
 These can be installed in file directory "minecraft/textures/colormap".
 
--foilage.png  Gives oak, dark oak, jungle and acacia leaves an autumn-like colour. Does not give birch or spruce leaves this colour.
--grass.png  Gives all grass in all biomes the same orange autumn-like colour.
+- foilage.png  Gives oak, dark oak, jungle and acacia leaves an autumn-like colour. Does not give birch or spruce leaves this colour.
+- grass.png  Gives all grass in all biomes the same orange autumn-like colour.
 
 Other
 -----
