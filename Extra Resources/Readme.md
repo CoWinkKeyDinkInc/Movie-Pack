@@ -2,11 +2,7 @@ These files are other resources that you may add and remove into the resource pa
 
 Blocks
 --------
-<<<<<<< HEAD
-These can be installed in file directory ```minecraft/textures/blocks.
-=======
-These can be installed in file directory "minecraft/textures/blocks".
->>>>>>> FETCH_HEAD
+These can be installed in file directory `minecraft/textures/blocks`.
 
 - greenscreen.png  Rename it to any block you like to create a green-screen effect.
 - bluescreen.png  Rename it to any block you like to create a blue-screen effect.
@@ -14,12 +10,11 @@ These can be installed in file directory "minecraft/textures/blocks".
 
 Color Map
 ---------
-These can be installed in file directory "minecraft/textures/colormap".
+These can be installed in file directory `minecraft/textures/colormap`.
 
 - foilage.png  Gives oak, dark oak, jungle and acacia leaves an autumn-like colour. Does not give birch or spruce leaves this colour.
 - grass.png  Gives all grass in all biomes the same orange autumn-like colour.
 
-<<<<<<< HEAD
 Enviroment
 ----------
 These can be installed in file directory `minecraft/textures/enviroment`
@@ -30,24 +25,8 @@ These can be installed in file directory `minecraft/textures/enviroment`
 Other
 -----
 
-- foilage.png and grass.png Gives oak, dark oak, jungle, acacia leaves and grass an autumn-like colour. Does not give birch or spruce leaves this colour. Install on folder ```minecraft/textures/colormap.
-- paintings_kristoffer_zetterstrand.png Paintings may be edited, use photo-editing software to change the template. Install on folder ```minecraft/textures/painting.
-- ascii.png Changes the fonts to a higher resolution and more rounder font. Install on folder ```minecraft/textures/font.
-- explosion.png The default explosion. Install on ```minecraft/textures/entity.
-- Readme.md The file you're viewing/reading right now, it does not need to go anywhere. Install on ```Movie-Pack/Extra Resources.
-=======
-Other
------
-
-- paintings_kristoffer_zetterstrand.png  Paintings may be edited, use photo-editing software to change the template.
-Install on folder minecraft/textures/painting.
-
-- ascii.png  Changes the fonts to a higher resolution and more rounder font.
-Install on folder minecraft/textures/font.
-
-- explosion.png  The default explosion.
-Install on minecraft/textures/entity.
-
-- Readme.md  The file you're viewing/reading right now, it does not need to go anywhere.
-Install on /Movie-Pack/Extra Resources.
->>>>>>> FETCH_HEAD
+- foilage.png and grass.png Gives oak, dark oak, jungle, acacia leaves and grass an autumn-like colour. Does not give birch or spruce leaves this colour. Install on folder `minecraft/textures/colormap`.
+- paintings_kristoffer_zetterstrand.png Paintings may be edited, use photo-editing software to change the template. Install on folder `minecraft/textures/painting`.
+- ascii.png Changes the fonts to a higher resolution and more rounder font. Install on folder `minecraft/textures/font`.
+- explosion.png The default explosion. Install on `minecraft/textures/entity`.
+- Readme.md The file you're viewing/reading right now, it does not need to go anywhere. Install on `Movie-Pack/Extra Resources`.
