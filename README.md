@@ -1,31 +1,32 @@
 Movie-Pack
 ==========
 
-A 16x Minecraft resource pack to assist in Minecraft Machinima's.
+A Minecraft resource pack to assist in Minecraft machinimas.
 
 Some Changes in the resource pack by default
 --------------------------------------------
 - Beacons, command blocks, gold blocks, gold ore and other blocks animate!
 - Clearer water.
-- Bits added from TiggyLi's and Plastix's resource pack.
+- Bits added from [Tiggy's Pack][1] and [Plast-Pack][2].
 - Explosions are full colour!
 - Sun and Moon are rounder!
 - Even more!
 
-Additional things
------------------
-Other stuff that you may add, are in the Extra Resources folder, these details
-can be found on the Wiki.
-
+Using issues and pull requests
+------------------------------
 If you want something added to the Movie-Pack, like a font, animation or
-something else, you may create an issue asking it to be added. There has to be
-good reason to get something added to the resource pack
+something else, you may create an issue asking it to be added. There has to be a
+good reason to get something added to the resource pack.
 
-All block modification requests must be 16x resolution, which is the
-native resolution of the vanilla textures and graphics.
+If you want to request a texture to be solely used for aesthetics, you must have at least a 16x resolution image.
 Fonts, items, paintings, entities and others can be requested at any resolution.
 
-Copyright
----------
-This resource pack is copyright free, there is no need to credit this link.
-If you do use this resource pack in your video, I recommend you do put a link to this GitHub repository.
+Other
+-----
+You can find resource packs suitable for older versions of Minecraft in the releases tab.
+Releases will be created every time new resource pack functions have been officially added to Minecraft.
+I ask that you put a link to this repository if you use this in your videos.
+
+
+[1]:https://oc.tc/forums/topics/52f2ca9e12ca95ef76003af3
+[2]:https://github.com/Plastix/Plast-Pack
