@@ -23,12 +23,11 @@ Fonts, items, paintings, entities and others can be requested at any resolution.
 
 Other
 -----
-You can find resource packs suitable for older versions of Minecraft in the releases tab.
-
-If you're looking for a 32x pack to go with this, try out the [Upscaled Pack](http://www.curse.com/texture-packs/minecraft/upscaled) a copyright free alternative to Vattic's 32x pack.
-This resource pack is mostly sutiable for snapshots, go to the releases tab for versions sutiable for older versions of Minecraft.
-I ask that you put a link to this repository if you use this in your videos.
+- If you're looking for a 32x pack to go with this, try out the [Upscaled Pack][3] a copyright free alternative to Vattic's 32x pack.
+- This resource pack is mostly sutiable for snapshots, go to the releases tab for versions sutiable for older versions of Minecraft.
+- I ask that you put a link to this repository if you use this in your videos.
 
 
 [1]:https://oc.tc/forums/topics/52f2ca9e12ca95ef76003af3
 [2]:https://github.com/Plastix/Plast-Pack
+[3]:http://www.curse.com/texture-packs/minecraft/upscaled
