@@ -15,8 +15,7 @@ Some Changes in the resource pack by default
 Using issues and pull requests
 ------------------------------
 If you want something added to the Movie-Pack, like a font, animation or
-something else, you may create an issue asking it to be added. There has to be a
-good reason to get something added to the resource pack.
+something else, you may create an issue asking it to be added. There has to be a good reason to get something added to the resource pack.
 
 If you want to request a texture to be solely used for aesthetics, you must have at least a 16x resolution image.
 Fonts, items, paintings, entities and others can be requested at any resolution.
